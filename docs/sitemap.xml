@@ -3,12 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://jonoco.github.io/hugo/posts/my-first-post/</loc>
+    <lastmod>2019-04-08T13:51:07-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jonoco.github.io/hugo/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://jonoco.github.io/hugo/</loc>
+    <lastmod>2019-04-08T13:51:07-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jonoco.github.io/hugo/posts/</loc>
+    <lastmod>2019-04-08T13:51:07-07:00</lastmod>
     <priority>0</priority>
   </url>
   
